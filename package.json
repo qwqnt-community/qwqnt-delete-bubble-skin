@@ -17,7 +17,7 @@
   "qwqnt": {
     "name": "删除气泡皮肤",
     "dependencies": {
-      "ipc_interceptor": "^1.0.0",
+      "ipc_interceptor": "^1.2.0",
       "ipc_logger?": "^1.0.1"
     }
   },
